@@ -42,5 +42,7 @@ section img{margin-bottom: 10px;}
 .tbl_view input[type="text"], input[type="password"]{width: 200px; height: 30px;}
 .tbl_view input[value]{text-align: center;}
 .tbl_view a{text-decoration: none; color: #000;}
-.tbl_view .button{width: 55px; height: 35px; border: 1px solid #333; background-color: #eee; padding: 5px; margin: 5px; border-radius: 3px}
-.tbl_view input[type="submit"], input[type="reset"]{width: 55px; height: 35px;}
+.tbl_view .button{border: 1px solid #333; background-color: #eee; padding: 5px;
+    margin: 5px; border-radius: 3px; width: 55px; height: 35px;}
+.tbl_view input[type="submit"], input[type="reset"]{border: 1px solid #333; border-radius: 3px;
+    width: 45px; height: 33.5px; margin: 5px; font-size: 1em;}
