@@ -17,7 +17,8 @@ section img{margin-bottom: 10px;}
 .join ul li label{width: 120px; float: left; text-align: right;}
 .join ul li input[type="text"], input[type="password"], input[type="date"]{width: 250px; height: 30px;}
 .join ul li input[type="password"]{width: 250px; height: 30px;}
-.join ul li input[type="submit"], input[type="reset"]{width: 70px; height: 30px; margin: 5px;}
+.join ul li input[type="button"], input[type="reset"]{border: 1px solid #333; border-radius: 3px;
+    font-size: 1em; width: 45px; height: 35px; margin: 5px;}
 
 /* login 스타일 */
 .login{width: 450px; margin: 0 auto;}
